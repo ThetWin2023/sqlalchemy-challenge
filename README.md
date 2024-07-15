@@ -4,7 +4,7 @@
 ## Name: Thet Win
 ## Date: July 15, 2024
 
- This program uses SQLAlchemy to carry out Data Analysis the climate of Honolulu Hawaii.
+ This program uses SQLAlchemy to carry out Data Analysis on the climate of Honolulu Hawaii.
  
  The program also analyzes a list of Stations.
  
